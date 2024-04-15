@@ -3,6 +3,7 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
+# Teste
 # Gerando dados fictícios
 def generate_data():
     date_range = pd.date_range(start='2020-01-01', end='2024-12-31')
